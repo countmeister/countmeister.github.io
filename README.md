@@ -1,2 +1,1 @@
-# countmeister.github.io
-&lt;countmeister> Web Component
+# https://github.com/event-count/event-count.github.io
